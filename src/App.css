@@ -1,0 +1,20 @@
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+.nav-link { 
+    color: #d6c33a;
+    font-size: 120%;
+}
+.navbar-nav a:hover { 
+    color:#b6a83a;
+}
+.social-icons { 
+    width: 25%;
+    height: 25%;
+    color: #b6a83a;
+}
+#header-details img { 
+    max-width: 50%;
+}
+#footer-details div { 
+    color: #d6c33a;
+}
